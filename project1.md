@@ -30,7 +30,7 @@
 <hr>
 
 ### - Using <EM><U> PYCHARM/IDLE</U></EM>
-
+<br>
 
 * Pendulum Set-up with graph and animation.
    <br> <b> - Code:</b> <a href="https://github.com/SumaAcharya/Pendulum-Animation/blob/main/main.py"> <u><b> Pendulum code </b></u> </a>

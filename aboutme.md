@@ -19,6 +19,7 @@ Always enjoy thriller/action/comedy genre of movies and even monologue dramas. A
 
 ### A Sports enthusiast:
 
+Keen follower of the Olympics and other international tournament. Love sports games like Badminton, Swimming and Basketball. In my free time , I love to burn some calories on the Badminton court ;)
 
 
 

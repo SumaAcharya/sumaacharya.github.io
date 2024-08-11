@@ -1,6 +1,5 @@
 ---
-layout: page
-subtitle: Python programming
+Python programming
 ---
 
 

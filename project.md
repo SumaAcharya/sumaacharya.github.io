@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Page
 title: Project Work-1
 subtitle: Python
 ---

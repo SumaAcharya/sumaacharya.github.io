@@ -12,6 +12,9 @@ I have natural interest towards creativity of any-form whether it is traditional
 
 And in traditional music form especially, the <em><b>Vocal Carnatic </b></em> music form, haven been trained for 6-7 years and also participated in events to show case my music skills.
 
+![Unknown-5](https://github.com/SumaAcharya/sumaacharya.github.io/blob/master/assets/img/Unknown-5.jpeg)
+![Unknown-4](https://github.com/SumaAcharya/sumaacharya.github.io/blob/master/assets/img/Unknown-4.jpeg)
+
 
 ### A movie buff:
 

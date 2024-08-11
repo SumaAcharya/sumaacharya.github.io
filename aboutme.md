@@ -15,12 +15,7 @@ And in traditional music form especially, the <em><b>Vocal Carnatic </b></em> mu
 
 ### A movie buff:
 
-Always enjoy thriller/action/comedy genre of movies and even monologue dramas. A big fan of the <b> 'Avengers'</b> espcially <b> Mr. Stark </b>from Iron-Man series. During school days, was part of speech, drama and dramatics club, were in I have participated in various monologues , public-speaking, plays and debate competitions and won accolades too.
-
-
-### A Sports enthusiast:
-
-Keen follower of the Olympics and other international tournaments. Love sports games like Badminton, Swimming and Basketball. In my free time , I love and ready to burn some calories on the Badminton court ;)
+Always enjoy thriller/action/comedy genre of movies and even monologue dramas. A big fan of the <b> 'Avengers'</b> espcially <b> Mr. Stark </b>from Iron-Man series. During school days, was part of speech, drama and dramatics club, were in I have participated in various monologues , public-speaking and play competitions and won accolades too.
 
 
 

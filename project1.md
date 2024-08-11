@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Project Work -1
 subtitle: Python programming
 ---
 

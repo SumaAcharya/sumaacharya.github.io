@@ -6,7 +6,7 @@ subtitle: Python
 
 ### Using <U> JUYPTER NOTEBOOK</U>
 
-1. Simple projectile graph of kinemtaics equation plotting the x and y axis formulas with two different values of theta.
+1. Simple projectile graph of kinematics equation plotting the x and y axis formulas with two different values of theta.
 <br> <b> code:</b> <a href="https://github.com/SumaAcharya/Graphs-/blob/main/ProjectleGraph.ipynb"> Projectile Graph </a>
 
  

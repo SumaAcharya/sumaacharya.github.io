@@ -24,6 +24,11 @@
 <br> <b> - Skills:</b> Matplotlib, Numpy, plt, color, scale
 
 
+6. Resistance Colour Band Calculator.
+<br> <b> - Code:</b> <a href="https://github.com/SumaAcharya/Resistance-colour-band/blob/main/Resistance%20color%20band.ipynb"> <u><b> Colour Band </b></u> </a>
+<br> <b> - Skills:</b> Color index, f-string, equation on int
+
+
 ### - Using <EM><U> PYCHARM/IDLE</U></EM>
 
 
@@ -32,3 +37,5 @@
    <br> <b> - Graph:</b> <a href="https://github.com/SumaAcharya/Pendulum-Animation/blob/main/graph%20pendulum.png"> <u><b> Pendulum Graph </b></u> </a>
  <br> <b> - Video/Animation:</b> <a href="https://github.com/SumaAcharya/Pendulum-Animation/blob/main/%20recording.mov"> <u><b> Pendulum Animation </b></u> </a>
  <br> <b> - Skills:</b> Matplotlib, Numpy, plt, Scipy, Anim
+
+

@@ -4,6 +4,7 @@ title: Project Work-1
 subtitle: Python
 ---------
 
+
 #### Using <U> JUYPTER NOTEBOOK</U>
 
 1. Simple projectile graph of kinematics equation plotting the x and y axis formulas with two different values of theta.

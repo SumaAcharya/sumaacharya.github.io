@@ -26,7 +26,7 @@
 
 6. Resistance Colour Band Calculator.
 <br> <b> - Code:</b> <a href="https://github.com/SumaAcharya/Resistance-colour-band/blob/main/Resistance%20color%20band.ipynb"> <u><b> Colour Band </b></u> </a>
-<br> <b> - Skills:</b> Color index, f-string, equation on int
+<br> <b> - Skills:</b> Color index, f-string, equation using int
 
 
 ### - Using <EM><U> PYCHARM/IDLE</U></EM>

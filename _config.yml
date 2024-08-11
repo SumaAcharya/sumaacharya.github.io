@@ -21,7 +21,9 @@ author: Suma Acharya
 
 navbar-links:
   About Me: "aboutme"
-  
+  Project Work : 
+          - Python = "project.md"
+          
 ################
 # --- Logo --- #
 ################

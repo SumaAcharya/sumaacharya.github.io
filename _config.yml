@@ -179,7 +179,6 @@ gtm: "GTM-KDBRGFXC"
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
-
 # Google Universal Analytics ID -- deprecated
 # As of July 2023 this is no longer supported by Google! If you are still using `google_analytics`,
 # you should switch to using the `gtag` field above instead.

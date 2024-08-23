@@ -23,7 +23,7 @@ navbar-links:
   #About Me: "aboutme"
   Project Work : 
           - Python: "project1"
-Courses : 
+  Courses : 
           - Undergrad: "courses" 
           
 ################

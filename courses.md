@@ -1,7 +1,10 @@
----------
-Layout: Page
-Title: Undergrad Courses
-Subtitle: courses/references books/ sources
+---
+layout: page
+title: Undergrad Courses
+subtitle: Courses/ Reference Books/ Sources
+---
+
+
 -----------
 
 

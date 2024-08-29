@@ -18,7 +18,7 @@ subtitle: Courses/ Reference Books/ Sources
 ### -<EM><U> Applied Physics for EEE </U></EM>
 
 1. Density of States
-   <br> <b> - Source:</b> University of Michigan (pdf available on internet)
+   <br> <b> - Source:</b> University of Michigan / Georgia Tech  (pdf available on internet)
 
 
 

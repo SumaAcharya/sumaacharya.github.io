@@ -9,9 +9,8 @@ subtitle: Courses/ Reference Books/ Sources
 
 
 ### -<EM><U> [EE44] Basics of Electrical Engineering </U></EM>
-
 <br> <b> - Instructor:</b> Prof. Ali Hajimiri
- <b> - Source:</b> Youtube
+<br> <b> - Source:</b> Youtube
 1. Circuit Fundalmentals:
    
 

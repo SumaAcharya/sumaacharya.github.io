@@ -17,7 +17,7 @@ subtitle: Courses/ Reference Books/ Sources
 
 ### -<EM><U> Applied Physics for EEE </U></EM>
 
-1. Density of States
+1. Density of States <mark>(imp for foundations for microelectronics)</mark>
    <br> <b> - Source:</b> University of Michigan / Georgia Tech  (pdf available on internet)
 
 

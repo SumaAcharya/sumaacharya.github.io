@@ -7,7 +7,7 @@ subtitle: Courses/ Reference Books/ Sources
 
 -----------
 
-### -<EM><U> [EE44] Basics of Electrical Engineering </U></EM>
+### -<EM><U>  [EE44] Circuits and Systems </U></EM>
 <b> * Instructor:</b> Prof. Ali Hajimiri <br> <b> * Source:</b> Youtube 
 1. Circuit Fundalmentals
 2. Nodal Analysis <span style="background-color: #7FFF00"> (notes can be referred from : Imperial College London) </span>

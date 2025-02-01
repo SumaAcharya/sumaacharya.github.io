@@ -11,4 +11,6 @@ subtitle: Circuit drafts, schematics and just layout designs
 - Just a hardware outlook of circuit, only focused on designing part. Wherein I connected a series and parallel combination circuits to pins of arduino.<br>
 <b> -   Image:</b> <a href="https://github.com/SumaAcharya/sumaacharya.github.io/blob/master/assets/img/IMP.png"> <u>
 <b> Arduino </b></u> </a> <br>
-<b> - Skills: </b> Series/Parallel combination circuit, KICAD Software, Basic components of circuit stuffs 
+<b> - Skills: </b> Series/Parallel combination circuit, KICAD Software, Basic components of circuit stuffs
+
+<b> <EM><U>  DC Regulated Power Supply :</U></EM></b> <br>
